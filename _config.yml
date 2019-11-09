@@ -1,12 +1,10 @@
 # Site settings
 title: Bitcoin Newcastle
-email: your-email@yourdomain.com
+email: bitcoinnewcastle@gmail.com
 description: "Bitcoin meetup in Newcastle upon Tyne, UK."
 baseurl: ""
 url: "http://www.bitcoinnewcastle.com"
 twitter_username: BitcoinNCL
-facebook_username:  BitcoinNewcastle
-google_plus_url: https://plus.google.com/+bitcoinnewcastlecom/about
 
 # Build settings
 markdown: kramdown
