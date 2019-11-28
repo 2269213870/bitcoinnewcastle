@@ -30,8 +30,4 @@ We would like to give a huge thank you to our venue for hosting us, TusPark Newc
 Look forward to seeing you there!
 
 Location:
-TusPark Newcastle Eagle Labs
-Maybrook House
-Grainger Street
-Newcastle upon Tyne
-NE1 5JE
+TusPark Newcastle Eagle Labs, Maybrook House, Grainger Street, Newcastle upon Tyne, NE1 5JE
